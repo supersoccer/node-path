@@ -1,6 +1,6 @@
 {
   "name": "@supersoccer/path",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "https://github.com/supersoccer/node-path.git",
   "author": "Argi Karunia",
